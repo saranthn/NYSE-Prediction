@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# New York Stock Exchange Dtock Price Forecasting
+# New York Stock Exchange Stock Price Forecasting
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -24,7 +24,7 @@
 
 Stock and financial data have historically been an important and popular topic to analyze and draw inferences from. In this project, we will attempt to use machine learning on stock prices and financial data to predict one-day ahead stock prices. A large issue that comes from trying to use machine learning on financial data is that they are very noisy, and it is challenging to distinguish between signal and noise. We plan to predict stock prices from 5 companies (Pfizer (PFE), Exxon Mobil (XOM), Wells Fargo (WFC), Microsoft (MSFT), and McDonald’s (MCD)) using their historical closing price data from the New York Stock Exchange from 2010 - 2017.
 
-Report: '.\'
+Report: https://github.com/saranthn/NYSE-Prediction/blob/main/Final%20Report%20-%20Stock%20Prediction.pdf
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
